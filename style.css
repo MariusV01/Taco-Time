@@ -68,3 +68,6 @@ icon {
   margin: 10px;
   background: white;
 }
+.gallery img{
+  padding: 5px;
+}
